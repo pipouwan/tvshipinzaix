@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pipouwan.github.io/tvshipinzaix/sitemap.xml
